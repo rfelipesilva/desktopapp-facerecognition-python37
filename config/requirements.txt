@@ -1,0 +1,94 @@
+to install:
+- python -m pip install pytesseract
+- cv2 - to install whell
+
+
+contento from texto:
+1 -----------
+	A pesquisa de Buralli, publicada em 2018 pelo International 
+Journal of Environmental Research and Public Health, avaliou 82 indivíduos 
+da zona rural de São José de Ubá-RJ por meio de questionários, análise de 
+amostras de sangue e espirometria, um exame que mede a capacidade pulmonar.
+	Os exames revelaram diminuições dos padrões respiratórios nos 
+trabalhadores rurais em comparação a indivíduos não expostos a agrotóxicos. 
+E quanto maior a exposição, medida pela presença de biomarcadores no sangue, 
+pior foi a condição respiratória observada no participante.
+	Sintomas como tosse, alergia nasal e dificuldade para respirar foram 
+mais prevalentes durante o período da safra do que na entressafra, o que sugere 
+um efeito agudo durante o período de maior exposição, diz o pesquisador.
+	Segundo Buralli, 90% dos participantes também afirmaram sentir com 
+frequência ao menos um sintoma agudo de exposição aos pesticidas, entre os 
+quais os mais comuns foram irritações nas mucosas, dor de cabeça, taquicardia 
+e palpitação, tontura, dor de estômago e câimbras. 
+	Além disso, 70% dos entrevistados relataram apresentar ao menos um 
+sintoma crônico, como alterações no sono, irritabilidade e dificuldade de 
+concentração e raciocínio.
+-------------------------
+2 ------------
+	Para ilustrar o grau de desconhecimento da população rural de 
+Casimiro de Abreu, no Rio de Janeiro, o enfermeiro Gilberto Santos de Aguiar, 
+do Programa do Saúde do Trabalhador da Coordenação de Vigilância em Saúde 
+da cidade, conta que ele já viu moradores armazenando água para beber em 
+frascos de agrotóxico.
+	Aguiar faz parte de um projeto que busca investigar a associação 
+dos agrotóxicos com doenças comuns entre os agricultores. A iniciativa surgiu
+a partir de um caso de câncer de pulmão em um trabalhador rural da cidade 
+em que o médico identificou a exposição aos agrotóxicos como causa do tumor. 
+	"Evidenciamos que muitas vezes o adoecimento de um trabalhador rural 
+não é um adoecimento natural, mas por exposição ao agrotóxico", diz.
+	O grupo aplicou um questionário sobre uso de agrotóxicos e presença 
+de sintomas em 41 propriedades rurais da região. O resultado foi encaminhado 
+ao serviço de câncer ocupacional do Instituto Nacional de Câncer (Inca), que 
+se interessou pelo projeto e hoje conduz um projeto de investigação de alterações 
+genéticas por exposição a agrotóxicos na região.
+	Para Aguiar, a desinformação é o principal fator de risco para os 
+pequenos agricultores da região. "A maioria dos agricultores utiliza agrotóxicos
+sem prescrição agronômica. A compra é orientada pelo funcionário do balcão da 
+loja que vende agrotóxico, ou às vezes é feita na porta da propriedade por um 
+carro que leva o kit de veneno", afirma. Ele diz que não há nenhuma assistência
+técnica para orientar sobre o modo de uso e nenhuma fiscalização.
+	Um levantamento do perfil epidemiológico dos trabalhadores rurais de 
+Casimiro de Abreu, publicado pela Revista Brasileira de Enfermagem no início do 
+ano, constatou que 51,8% da população entrevistada afirma nunca usar equipamentos
+de proteção individual recomendados durante o manejo de agrotóxicos, como botas,
+luvas e máscaras respiratórias.
+-------------------------------------------
+3--------------------------------
+mais prevalentes durante o período da safra do que na entressafra, o que sugere 
+Problemas endócrinos e reprodutivos
+
+	Em sua pesquisa, que avaliou o impacto dos agrotóxicos na função da 
+tireoide em trabalhadores rurais da soja da cidade de Sertão, no 
+Rio Grande do Sul, a farmacêutica Tanandra Bernieri também constatou esse tipo 
+de descuido: nenhum dos 46 agricultores entrevistados afirmou utilizar 
+equipamentos de proteção individual corretamente. Do total, 34,8% afirmou usar
+luvas apenas na hora de fazer a mistura dos agrotóxicos. "Muitos não sabiam que
+o agrotóxico pode ser absorvido pela boca quando comem algo com as mãos sujas 
+do produto", conta Bernieri.
+ 
+	"A fonte de informação deles são os 
+	vendedores ou pessoas da família e amigos."
+
+	A biomédica Camila Piccoli, mestre pela Escola Nacional de Saúde Pública
+da Fiocruz, também pesquisou os efeitos dos agrotóxicos na tireoide de agricult-
+oresdo Rio Grande do Sul, da cidade de Farroupilha. Ela e sua equipe constataram 
+que a exposição aos agrotóxicos pode estar relacionada a um quadro de aumento do 
+hormônio TSH e diminuição do hormônio T4, principalmente nos homens avaliados, 
+resultando em sintomas análogos ao hipotireoidismo.
+
+	Ela também participou de um estudo, coordenado por seu colega 
+Cleber Cremonese, que selecionou jovens de 18 a 23 anos da mesma região e, por 
+meio do exame de espermograma, constatou a diminuição da mobilidade e morfologia
+do esperma dos jovens rurais em comparação aos jovens urbanos, além de 
+alterações nos hormônios reprodutivos.
+
+	"Não se pode afirmar que as alterações estejam 
+	relacionadas somente ao uso de agrotóxicos".
+		- Piccoli. 
+
+	Mas os dados sugerem que os agrotóxicos podem estar relacionados ao 
+fenômeno, principalmente por se tratar de uma população jovem, sem outros fatores 
+de risco.
+------------------
+fonte:
+https://www.bbc.com/portuguese/brasil-49616441
