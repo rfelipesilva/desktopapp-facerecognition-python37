@@ -22,7 +22,7 @@ Metrics information for each model tested:
 For more details, find the full academic paper in the `doc` folder.
 
 ## Remarks
-* It has been developed for academic work :warning:
+* It was developed for academic work :warning:
 * Academic paper in Portuguese - Brazil :warning:
 
 ## TO DO LIST
