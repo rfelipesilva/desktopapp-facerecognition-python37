@@ -5,7 +5,7 @@ Face Recognition is a system designed to automatically detect and recognize huma
 Metrics information for each model tested:
 
 ### Eigenfaces
-![alt text](../img/eigenfacesmetrics.PNG)
+![alt text](img/eigenfacesmetrics.PNG)
 
 For more details, find the full academic paper in the `doc` folder.
 
