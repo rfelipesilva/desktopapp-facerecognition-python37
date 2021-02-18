@@ -1,15 +1,18 @@
 # -*- coding: utf-8 -*-
 #! Python3
 
-# @author
-# - Renan Silva
+#? @author: Renan Silva
+#? @github: https://github.com/rfelipesilva
 
 import os
 
 from Configuration import Path
 
-#classe criada para verificar arquivos mandatórios
 class Verify:
+
+    """
+    Verify will make sure all mandatory files e data are avaiable to be used.
+    """
 
     def __init__(self):
 

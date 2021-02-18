@@ -1,17 +1,11 @@
 # -*- coding: utf-8 -*-
 #! Python3
 
-# @author
-# - Renan
+#? @author: Renan Silva
+#? @github: https://github.com/rfelipesilva
 
 import os
 import sys
-# -*- coding: utf-8 -*-
-#! Python3
-
-# @author
-# - Renan Silva
-
 import requests
 import inspect
 import argparse

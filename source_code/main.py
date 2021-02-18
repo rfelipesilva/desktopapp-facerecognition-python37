@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 #! Python3
 
-# @author
-# - Renan Silva
+#? @author: Renan Silva
+#? @github: https://github.com/rfelipesilva
 
 import PIL
 from PIL import Image,ImageTk
@@ -20,7 +20,7 @@ from tkinter       import font as tkfont
 
 from Dict            import Dictionary
 from Exceptions      import Verify
-from Treinamento import Treinamento
+from Treinamento     import Treinamento
 from CapturaFace     import ReferenceFile
 from Configuration   import Path
 

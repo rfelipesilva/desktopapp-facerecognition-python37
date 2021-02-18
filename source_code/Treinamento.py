@@ -1,12 +1,13 @@
 # -*- coding: utf-8 -*-
 #! Python3
 
-# @author
-# - Renan Silva
+#? @author: Renan Silva
+#? @github: https://github.com/rfelipesilva
 
 import cv2
 import os
 import numpy as np
+
 from Configuration import Path
 from Exceptions import Verify
 

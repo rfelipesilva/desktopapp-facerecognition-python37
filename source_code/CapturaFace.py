@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 #! Python3
 
-# @author
-# - Renan Silva
+#? @author: Renan Silva
+#? @github: https://github.com/rfelipesilva
 
 import os
 import cv2
