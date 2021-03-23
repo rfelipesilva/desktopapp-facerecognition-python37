@@ -1,4 +1,4 @@
-# Face Recognition
+# Face Recognition System
 Face Recognition is a system designed to automatically detect and recognize human faces with a machine learning model, then, provide access for a private information, available according with the level of the user. 
 
 ## Models
